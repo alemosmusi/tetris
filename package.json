@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"keywords": [],
+	"main": "src/index.js",
 	"homepage": "https://alemosmusi.github.io/tetris",
 	"dependencies": {
 		"arrow-keys-react": "1.0.6",
