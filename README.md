@@ -4,7 +4,7 @@
 ## Live
 
 You can find the application live here:
-https://mpirescarvalho.github.io/react-tetris/
+https://alemosmusi.github.io/tetris/
 
 <h1 align="center">
   <img alt="React tetris desktop" title="#React tetris desktop" src="./assets/react-tetris-desktop-1.png" />
@@ -17,7 +17,7 @@ https://mpirescarvalho.github.io/react-tetris/
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-$ git clone https://github.com/mpirescarvalho/react-tetris.git
+$ git clone https://github.com/alemosmusi/tetris.git
 $ cd react-tetris
 $ npm install
 $ npm run start
